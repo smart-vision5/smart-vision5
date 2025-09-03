@@ -88,8 +88,3 @@
 </p>
 
 ---
-
-⭐ **Pro Tip:**  
-- Replace **`Smart Vision5`** with your **GitHub username** everywhere.  
-- Update your **social links**, **portfolio**, and **email**.  
-- Keep the repo **public** so badges, stats, and trophies display correctly.
