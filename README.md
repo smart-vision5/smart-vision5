@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Dylan</h1>
+<h1 align="center">Hi everyone 👋</h1>
 <h3 align="center">🚀 Full-Stack Engineer | 🤖 AI Developer | Open-Source Contributor</h3>
 
 <!-- Badges -->
@@ -19,11 +19,13 @@
 
 ## 👨‍💻 **About Me**
 
-- 🔭 I’m currently working on **Interactive Rating Component** using **Angular**
+- 🔭 I’m currently working on Full Stack Development
+- 🤔 I’m looking for help with Blockchain and Web 3.0
+- 💬 Ask me about Web development
+- ⚡ Fun fact: Apart from programming I am fitness geek.
 - 🌱 Exploring **AI-powered full-stack solutions** with **LangChain** & **TensorFlow**
 - 🧠 Passionate about **Machine Learning**, **Generative AI**, and **Web Development**
 - 👯 Open to collaborating on **AI projects**, **SaaS platforms**, and **open-source contributions**
-- 📫 Reach me at: **your.email@example.com**
 
 ---
 
@@ -87,26 +89,7 @@
 
 ---
 
-## 🔗 **Connect With Me**
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dylan-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-</p>
-
----
-
 ⭐ **Pro Tip:**  
-- Replace **`Dylan`** with your **GitHub username** everywhere.  
+- Replace **`Smart Vision5`** with your **GitHub username** everywhere.  
 - Update your **social links**, **portfolio**, and **email**.  
 - Keep the repo **public** so badges, stats, and trophies display correctly.
