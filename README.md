@@ -71,20 +71,3 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dylan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dylan&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 **GitHub Achievements**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dylan&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
