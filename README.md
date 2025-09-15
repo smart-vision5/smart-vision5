@@ -3,18 +3,6 @@
 <h3 align="center">🚀 Full-Stack Engineer | 🤖 AI Developer | Open-Source Contributor</h3>
 
 <!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Dylan">
-    <img src="https://komarev.com/ghpvc/?username=Dylan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Dylan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dylan?label=Followers&style=flat&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Dylan?tab=stars">
-    <img src="https://img.shields.io/github/stars/Dylan?label=Stars&style=flat&logo=github" alt="GitHub Stars" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 **About Me**
