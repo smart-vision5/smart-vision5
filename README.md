@@ -24,7 +24,6 @@
 - 💬 Ask me about Web development
 - ⚡ Fun fact: Apart from programming I am fitness geek.
 - 🌱 Exploring **AI-powered full-stack solutions** with **LangChain** & **TensorFlow**
-- 🧠 Passionate about **Machine Learning**, **Generative AI**, and **Web Development**
 - 👯 Open to collaborating on **AI projects**, **SaaS platforms**, and **open-source contributions**
 
 ---
