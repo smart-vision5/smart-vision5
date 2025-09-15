@@ -19,12 +19,12 @@
 
 ## 👨‍💻 **About Me**
 
-- 🔭 I’m currently working on Full Stack Development
-- 🤔 I’m looking for help with Blockchain and Web 3.0
-- 💬 Ask me about Web development
-- ⚡ Fun fact: Apart from programming I am fitness geek.
-- 🌱 Exploring **AI-powered full-stack solutions** with **LangChain** & **TensorFlow**
-- 👯 Open to collaborating on **AI projects**, **SaaS platforms**, and **open-source contributions**
+🔭 I’m a Full Stack Developer passionate about building scalable, user-centric web applications.
+🤖 Currently diving deep into AI integration, leveraging tools like LangChain, TensorFlow, and LLMs to create intelligent full-stack solutions.
+🌐 Skilled across frontend, backend, cloud, and DevOps, I enjoy bridging traditional full-stack development with cutting-edge AI/ML workflows.
+👯 Open to collaborating on AI-powered SaaS platforms, Web 3.0 applications, and open-source projects.
+💬 Ask me about modern web frameworks, REST/GraphQL APIs, cloud deployment, and AI integration strategies.
+⚡ Fun fact: When I’m not coding, you’ll find me exploring fitness science and performance optimization.
 
 ---
 
