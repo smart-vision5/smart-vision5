@@ -1,4 +1,8 @@
 <!-- Profile Header -->
+<div align="center">
+  <img src="./assets/animated-header.gif" width="100%" alt="Welcome to My GitHub Profile">
+</div>
+
 <h1 align="center">Hello, I'm Juan De La Cruz 👋</h1>
 <h3 align="center">🚀 Full-Stack Engineer | 🤖 AI Developer | Open-Source Enthusiast</h3>
 
@@ -94,3 +98,11 @@ _"What you do today can improve all of your tomorrows."_
 ## 📫 **How to reach me**
 - 📧 [Email me](mailto:your-email@example.com)
 - 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+## 💻 **My Projects**
+
+- [Project 1: AI-Powered Chatbot](#)
+- [Project 2: Web App with TensorFlow Integration](#)
+- [Project 3: Scalable SaaS Platform](#)
