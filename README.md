@@ -99,13 +99,11 @@
     <tr>
       <td width="70%" style="padding: 10px; text-align: center;">
  🤖 AI/ML: Work with AI models and integrate them into applications. </br>
- 💻 Full-Stack: Build and maintain web apps (React, Node.js, Django).
- ☁️ Cloud & DevOps: Deploy applications to cloud platforms.
- 🌐 Web 3.0: Develop decentralized applications.
- 🧠 SaaS: Create AI-powered solutions.
- 🛠️ Consulting: Provide guidance on frameworks and APIs.
-  
-  🛠️ Consulting: Provide guidance on frameworks and APIs.
+ 💻 Full-Stack: Build and maintain web apps (React, Node.js, Django). </br>
+ ☁️ Cloud & DevOps: Deploy applications to cloud platforms. </br>
+ 🌐 Web 3.0: Develop decentralized applications. </br>
+ 🧠 SaaS: Create AI-powered solutions. </br>
+ 🛠️ Consulting: Provide guidance on frameworks and APIs. </br>
       </td>
       <td width="30%" style="padding: 10px; text-align: center;">
         <img src="https://camo.githubusercontent.com/2cbd0c112444a3d5f7e975755deca84939da3d5ce9d5418b948305099f2e1f28/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e6769663f6369643d6563663035653437753635317477637473657a687a627377386d797a6368756b636a7875376f65616b7133756a663137267269643d67697068792e676966" width="100%" style="max-width: 300px; border: 1px solid black" />
