@@ -3,6 +3,8 @@
 <h3 align="center">🚀 Full-Stack Engineer | 🤖 AI Developer | Open-Source Contributor</h3>
 
 <!-- Badges -->
+
+<img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 ---
 
 ## 👨‍💻 **About Me**
