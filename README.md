@@ -82,21 +82,26 @@
 ---
 
 ### **🤖 Artificial Intelligence & Machine Learning**
+# Artificial Intelligence & Machine Learning
+
 <div align="center">
-  <div style="display: none">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=chainlink&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  </div>
-  
-  <div style="display: inline-block; vertical-align: top; padding: 10px;">
-    <img src="https://camo.githubusercontent.com/2cbd0c112444a3d5f7e975755deca84939da3d5ce9d5418b948305099f2e1f28/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e6769663f6369643d6563663035653437753635317477637473657a687a627377386d797a6368756b636a7875376f65616b7133756a663137267269643d67697068792e676966" style="max-width: 350px; border: 1px solid black" />
-  </div>
+  <table width="100%">
+    <tr>
+      <td width="70%" style="padding: 10px; text-align: center;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      </td>
+      <td width="30%" style="padding: 10px; text-align: center;">
+        <img src="https://camo.githubusercontent.com/2cbd0c112444a3d5f7e975755deca84939da3d5ce9d5418b948305099f2e1f28/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e6769663f6369643d6563663035653437753635317477637473657a687a627377386d797a6368756b636a7875376f65616b7133756a663137267269643d67697068792e676966" width="100%" style="max-width: 300px; border: 1px solid black" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
