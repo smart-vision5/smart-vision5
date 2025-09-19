@@ -98,7 +98,7 @@
   <table width="100%">
     <tr>
       <td width="70%" style="padding: 10px; text-align: center;">
- 🤖 AI/ML: Work with AI models and integrate them into applications.
+ 🤖 AI/ML: Work with AI models and integrate them into applications. </br>
  💻 Full-Stack: Build and maintain web apps (React, Node.js, Django).
  ☁️ Cloud & DevOps: Deploy applications to cloud platforms.
  🌐 Web 3.0: Develop decentralized applications.
