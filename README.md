@@ -83,6 +83,7 @@
 
 ### **🤖 Artificial Intelligence & Machine Learning**
 # Artificial Intelligence & Machine Learning
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -91,19 +92,18 @@
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
 <div align="center">
   <table width="100%">
     <tr>
       <td width="70%" style="padding: 10px; text-align: center;">
-  🤖 AI/ML: Work with AI models and integrate them into applications.
-
-  💻 Full-Stack: Build and maintain web apps (React, Node.js, Django).
-  
-  ☁️ Cloud & DevOps: Deploy applications to cloud platforms.
-  
-  🌐 Web 3.0: Develop decentralized applications.
-  
-  🧠 SaaS: Create AI-powered solutions.
+- 🤖 **AI/ML**: Work with AI models and integrate them into applications.
+- 💻 **Full-Stack**: Build and maintain web apps (React, Node.js, Django).
+- ☁️ **Cloud & DevOps**: Deploy applications to cloud platforms.
+- 🌐 **Web 3.0**: Develop decentralized applications.
+- 🧠 **SaaS**: Create AI-powered solutions.
+- 🛠️ **Consulting**: Provide guidance on frameworks and APIs.
   
   🛠️ Consulting: Provide guidance on frameworks and APIs.
       </td>
