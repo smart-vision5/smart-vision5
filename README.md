@@ -98,12 +98,12 @@
   <table width="100%">
     <tr>
       <td width="70%" style="padding: 10px; text-align: center;">
- 🤖 **AI/ML**: Work with AI models and integrate them into applications.
- 💻 **Full-Stack**: Build and maintain web apps (React, Node.js, Django).
- ☁️ **Cloud & DevOps**: Deploy applications to cloud platforms.
- 🌐 **Web 3.0**: Develop decentralized applications.
- 🧠 **SaaS**: Create AI-powered solutions.
- 🛠️ **Consulting**: Provide guidance on frameworks and APIs.
+ 🤖 AI/ML: Work with AI models and integrate them into applications.
+ 💻 Full-Stack: Build and maintain web apps (React, Node.js, Django).
+ ☁️ Cloud & DevOps: Deploy applications to cloud platforms.
+ 🌐 Web 3.0: Develop decentralized applications.
+ 🧠 SaaS: Create AI-powered solutions.
+ 🛠️ Consulting: Provide guidance on frameworks and APIs.
   
   🛠️ Consulting: Provide guidance on frameworks and APIs.
       </td>
