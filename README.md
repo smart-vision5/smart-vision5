@@ -4,26 +4,15 @@
 
 <!-- Badges -->
 
-
+<img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 ---
 ## 👨‍💻 **About Me**
-
-<div style="display: flex">
-  <div style="flex-2">
-    🔭 I’m a Full Stack Engineer passionate about building scalable, user-centric web applications.
+🔭 I’m a Full Stack Engineer passionate about building scalable, user-centric web applications.
 🤖 Currently diving deep into AI integration, leveraging tools like LangChain, TensorFlow, and LLMs to create intelligent full-stack solutions.
 🌐 Skilled across frontend, backend, cloud, and DevOps, I enjoy bridging traditional full-stack development with cutting-edge AI/ML workflows.
 👯 Open to collaborating on AI-powered SaaS platforms, Web 3.0 applications, and open-source projects.
 💬 Ask me about modern web frameworks, REST/GraphQL APIs, cloud deployment, and AI integration strategies.
 ⚡ Fun fact: When I’m not coding, you’ll find me exploring fitness science and performance optimization.
-
-  </div>
-  <div style="flex-1">
-      <img src="https://camo.githubusercontent.com/2cbd0c112444a3d5f7e975755deca84939da3d5ce9d5418b948305099f2e1f28/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e6769663f6369643d6563663035653437753635317477637473657a687a627377386d797a6368756b636a7875376f65616b7133756a663137267269643d67697068792e676966" width="50%" style="border: 1px solid black">
-  </div>
-
-</div>
-
 
 ---
 
@@ -99,11 +88,13 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=chainlink&logoColor=white" />
+
+ <img src="https://camo.githubusercontent.com/2cbd0c112444a3d5f7e975755deca84939da3d5ce9d5418b948305099f2e1f28/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e6769663f6369643d6563663035653437753635317477637473657a687a627377386d797a6368756b636a7875376f65616b7133756a663137267269643d67697068792e676966" width="50%" style="border: 1px solid black">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
 
