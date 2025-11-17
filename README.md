@@ -7,12 +7,12 @@
 <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 ---
 ## 👨‍💻 **About Me**
-🔭 I’m a Full Stack Engineer passionate about building scalable, user-centric web applications.
+🔭 I'm a Full Stack Engineer passionate about building scalable, user-centric web applications.
 🤖 Currently diving deep into AI integration, leveraging tools like LangChain, TensorFlow, and LLMs to create intelligent full-stack solutions.
 🌐 Skilled across frontend, backend, cloud, and DevOps, I enjoy bridging traditional full-stack development with cutting-edge AI/ML workflows.
 👯 Open to collaborating on AI-powered SaaS platforms, Web 3.0 applications, and open-source projects.
 💬 Ask me about modern web frameworks, REST/GraphQL APIs, cloud deployment, and AI integration strategies.
-⚡ Fun fact: When I’m not coding, you’ll find me exploring fitness science and performance optimization.
+⚡ Fun fact: When I'm not coding, you'll find me exploring fitness science and performance optimization.
 
 ---
 
