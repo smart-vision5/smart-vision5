@@ -1,18 +1,18 @@
 <!-- Profile Header -->
 <h1 align="center">Hi everyone 👋</h1> 
-<h3 align="center">🚀 Full-Stack Engineer | 🤖 AI Developer | Multi-Platform Innovator</h3>
+<h3 align="center"> 🤖 AI Engineer | 🚀 Full-Stack Developer | Multi-Platform Innovator</h3>
 
 <!-- Badges -->
 
 <img src="https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 ---
 ## 👨‍💻 **About Me**
-🔭 I'm a Full Stack Engineer passionate about building scalable, user-centric web applications.
-🤖 Currently diving deep into AI integration, leveraging tools like LangChain, TensorFlow, and LLMs to create intelligent full-stack solutions.
-🌐 Skilled across frontend, backend, cloud, and DevOps, I enjoy bridging traditional full-stack development with cutting-edge AI/ML workflows.
-👯 Open to collaborating on AI-powered SaaS platforms, Web 3.0 applications, and open-source projects.
-💬 Ask me about modern web frameworks, REST/GraphQL APIs, cloud deployment, and AI integration strategies.
-⚡ Fun fact: When I'm not coding, you'll find me exploring fitness science and performance optimization.
+🔭 I'm an AI-focused Full Stack Engineer passionate about creating intelligent, scalable web applications.
+🤖 Currently exploring advanced AI training techniques using LangChain, TensorFlow, and LLMs to develop smart, AI-powered full-stack solutions.
+🌐 With expertise in frontend, backend, cloud, and DevOps, I specialize in integrating AI/ML workflows into traditional development stacks.
+👯 Open to collaborating on AI-driven SaaS platforms, Web 3.0 applications, and open-source AI projects.
+💬 Ask me about AI integration strategies, modern web frameworks, REST/GraphQL APIs, and cloud deployment.
+⚡ Fun fact: When I'm not coding, I'm diving into fitness science and performance optimization.
 
 ---
 
